@@ -1,0 +1,2 @@
+defmodule Diceware do
+end
